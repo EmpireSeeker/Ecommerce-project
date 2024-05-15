@@ -1,0 +1,18 @@
+body{
+    background-image: url(/assets/img/eat.jpg);
+    background-size:cover;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    position: relative;
+    bottom: 4rem;
+}
+input{
+    border-radius: 5px;
+    height: 30px;
+    width: 30%;
+}
